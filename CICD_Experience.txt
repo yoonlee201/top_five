@@ -1,0 +1,2 @@
+My prior experience for CI/CD is when I did an internship as a Software Engineer. However, that was not a full experience more of just developing
+But when I created my own website, I designed, developed, and deployed it using github pages
